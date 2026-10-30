@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Low-Interest, Insurance-Backed Agricultural Credit in Ethiopia: Monte Carlo simulation code and calibration data"
+type: software
+authors:
+  - family-names: Kebede
+    given-names: Yodahe
+  - family-names: Niraula
+    given-names: Roshit
+version: "1.0"
+date-released: 2026-10-30
+license: MIT
+repository-code: "https://github.com/roshitniraula/microcredit-crop-insurance-ethiopia"
+keywords:
+  - microcredit
+  - index insurance
+  - smallholder agriculture
+  - Ethiopia
+  - Monte Carlo simulation

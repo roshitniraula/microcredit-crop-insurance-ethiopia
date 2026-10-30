@@ -1,0 +1,33 @@
+region,crop,arm,r,insured,participates,participation_margin_pct,N_star_kgNeq_ha,mean_yield_t_ha,mean_profit_birr_ha,sd_profit_birr_ha,default_rate_pct,mean_repayment_burden_pct
+Jimma,Maize,Control,0.27,False,True,31.25,95.0,6.73,387014.9,185234.5,0.0,8.67
+Jimma,Maize,T1 (low-interest),0.03,False,True,35.22,100.0,6.98,407362.3,199112.9,0.0,7.18
+Jimma,Maize,T2 (insurance-backed),0.03,True,True,57.67,130.0,8.35,472812.3,206587.9,0.0,15.89
+Jimma,Maize,T3 (combined),0.015,True,True,58.96,130.0,8.38,475485.4,212447.8,0.0,15.66
+Jimma,Sorghum,Control,0.27,False,True,87.11,200.0,7.77,596591.1,222299.8,0.0,10.71
+Jimma,Sorghum,T1 (low-interest),0.03,False,True,92.9,200.0,7.76,607552.7,225062.4,0.0,8.71
+Jimma,Sorghum,T2 (insurance-backed),0.03,True,True,99.99,200.0,7.76,603546.1,217219.3,0.0,11.46
+Jimma,Sorghum,T3 (combined),0.015,True,True,100.3,200.0,7.8,604063.6,214926.4,0.0,11.29
+Bahir Dar,Maize,Control,0.27,False,True,38.08,115.0,7.59,433780.3,205428.7,0.0,9.26
+Bahir Dar,Maize,T1 (low-interest),0.03,False,True,42.68,120.0,7.74,450401.3,208158.7,0.0,7.62
+Bahir Dar,Maize,T2 (insurance-backed),0.03,True,True,63.26,155.0,8.87,499836.4,213766.4,0.0,15.75
+Bahir Dar,Maize,T3 (combined),0.015,True,True,64.82,160.0,9.07,511170.0,223711.0,0.0,15.62
+Bahir Dar,Sorghum,Control,0.27,False,True,42.27,100.0,4.65,364985.5,171061.0,0.0,9.46
+Bahir Dar,Sorghum,T1 (low-interest),0.03,False,True,46.39,110.0,4.85,383961.0,172317.0,0.0,8.08
+Bahir Dar,Sorghum,T2 (insurance-backed),0.03,True,True,63.06,140.0,5.3,409871.4,175033.7,0.0,15.77
+Bahir Dar,Sorghum,T3 (combined),0.015,True,True,63.99,140.0,5.29,408281.2,174093.9,0.0,15.61
+Dessie,Maize,Control,0.27,False,True,59.08,160.0,10.03,571429.7,248087.6,0.0,9.45
+Dessie,Maize,T1 (low-interest),0.03,False,True,63.73,160.0,9.95,578429.1,247405.0,0.0,7.7
+Dessie,Maize,T2 (insurance-backed),0.03,True,True,84.53,195.0,11.34,641484.6,253314.7,0.0,13.69
+Dessie,Maize,T3 (combined),0.015,True,True,86.51,200.0,11.53,655491.3,265051.9,0.0,13.55
+Dessie,Sorghum,Control,0.27,False,True,7.1,60.0,4.01,323142.6,179108.7,0.0,7.15
+Dessie,Sorghum,T1 (low-interest),0.03,False,True,9.74,60.0,4.01,326485.5,186045.5,0.0,5.86
+Dessie,Sorghum,T2 (insurance-backed),0.03,True,True,32.15,65.0,4.13,322096.2,165758.1,0.0,18.12
+Dessie,Sorghum,T3 (combined),0.015,True,True,32.39,65.0,4.17,326048.6,164879.4,0.0,17.68
+Hawassa,Maize,Control,0.27,False,False,-3.84,,2.8,173447.3,99782.5,0.0,0.0
+Hawassa,Maize,T1 (low-interest),0.03,False,False,-0.96,,2.8,173946.6,98580.3,0.0,0.0
+Hawassa,Maize,T2 (insurance-backed),0.03,True,True,23.29,60.0,4.87,276322.3,152145.9,0.0,19.73
+Hawassa,Maize,T3 (combined),0.015,True,True,23.91,60.0,4.88,276192.1,142846.5,0.0,19.34
+Hawassa,Sorghum,Control,0.27,False,True,29.95,80.0,4.33,342305.7,168796.1,0.0,8.37
+Hawassa,Sorghum,T1 (low-interest),0.03,False,True,34.37,85.0,4.45,356399.4,172626.7,0.0,6.97
+Hawassa,Sorghum,T2 (insurance-backed),0.03,True,True,53.61,120.0,5.09,393059.5,179518.9,0.0,16.65
+Hawassa,Sorghum,T3 (combined),0.015,True,True,53.79,120.0,5.07,392600.0,177923.4,0.0,16.43

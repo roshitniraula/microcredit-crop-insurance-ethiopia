@@ -1,0 +1,5 @@
+arm,r,insured,participates,participation_margin_pct,N_star_kgNeq_ha,mean_yield_t_ha,mean_profit_birr_ha,sd_profit_birr_ha,default_rate_pct,mean_repayment_burden_pct
+Control,0.27,False,True,49.91,130.0,8.4,480822.2,212153.9,0.0,9.23
+T1 (low-interest),0.03,False,True,54.37,135.0,8.63,501144.2,219667.7,0.0,7.57
+T2 (insurance-backed),0.03,True,True,76.43,170.0,10.05,568532.9,235446.8,0.0,14.45
+T3 (combined),0.015,True,True,76.94,170.0,10.04,573606.1,242037.9,0.0,14.19
